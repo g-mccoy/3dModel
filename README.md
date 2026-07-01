@@ -21,9 +21,11 @@ Example of a Digital Model: <br>
 <img width="295" height="215" alt="Image" src="https://github.com/user-attachments/assets/f9ec0d91-8692-4cc9-8d58-efbc46bd1b13" />
 
 <br>
+### 3D Projection Mapping <br>
+
 In the past, I also experimented with 3D projection mapping, which allowed me to project animated videos onto a large, demonstration-sized model. The chosen demonstration video was the 1960 Chilean Tsunami in Hilo, Hawaii. <br><br>
 
-<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/b4cce9ab-ec3c-4381-b96e-caf74ba66ecd" />
+<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/b4cce9ab-ec3c-4381-b96e-caf74ba66ecd" /> <br>
 
 My recommended software for replicating this is MadMapper. MapMap is a free alternative software, but the UI is much harder to work with than MadMapper. Unfortunately, I no longer have access to the projector or model, so I cannot create an in-depth tutorial, but please feel free to contact me if you have any questions. <br><br>
 
