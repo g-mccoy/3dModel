@@ -9,6 +9,7 @@
 - [Troubleshooting the 3D Model](#troubleshooting-the-3d-model)
 - [Exporting to Sketchfab](#exporting-to-sketchfab)
 - [Optional: Coloring the 3D Model with Blender](#coloring-the-3d-model-with-blender)
+- [Acknowledgements](#acknowledgements)
 
 ## What is Possible with this Project?
 
@@ -111,5 +112,8 @@ https://skfb.ly/oL7MC
 ## Coloring the 3D Model with Blender
 
 [Coming Soon... Gathering Images]
+
+## Acknowledgements
+See [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md) for citations, data sources, and acknowledgements.
 
 
