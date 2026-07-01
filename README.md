@@ -5,7 +5,6 @@
 - [What is Possible with this Project?](#what-is-possible-with-this-project?)
 - [Downloading Data](#downloading-data)
 - [Using QGIS to Categorize Data](#using-qgis-to-categorize-data)
-- [Installing Dependencies for Jupyter Notebook](#installing-dependencies-for-jupyter-notebook)
 - [Creating the 3D Model](#creating-the-3d-model)
 - [Exporting to Sketchfab](#exporting-to-sketchfab)
 - [Optional: Coloring the 3D Model with Blender](#coloring-the-3d-model-with-blender)
@@ -28,7 +27,7 @@ In the past, I also experimented with 3D projection mapping, which allowed me to
 
 <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/b4cce9ab-ec3c-4381-b96e-caf74ba66ecd" /> <br>
 
-My recommended software for replicating this is MadMapper. MapMap is a free alternative software, but the UI is much harder to work with than MadMapper. Unfortunately, I no longer have access to the projector or model, so I cannot create an in-depth tutorial, but please feel free to contact me if you have any questions. <br><br>
+My recommended software for replicating this is MadMapper. MapMap is a free alternative software, but the UI is much harder to work with than MadMapper. Unfortunately, I no longer have access to the projector or model, so I cannot create an in-depth tutorial, but please feel free to contact me if you have any questions. <br>
 
 In the simplest explanation possible, we use Blender to color the model and export an image (or video) taken from above. This image/video must be 2D, NOT 3D. We then use MadMapper to distort the image created in Blender over the physical 3D Model. The ideal conditions for viewing the model setup are with an overhead projector, with the model painted white or with projector paint in a dark room. Some examples of distortion in MapMapper (demo version) is shown below for reference. <br><br>
 
@@ -44,10 +43,6 @@ In the simplest explanation possible, we use Blender to color the model and expo
 ...
 
 ## Using QGIS to Categorize Data
-
-...
-
-## Installing Dependencies for Jupyter Notebook
 
 ...
 
