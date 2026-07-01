@@ -52,7 +52,20 @@ In the simplest explanation possible, we use Blender to color the model and expo
 
 ## Using QGIS to Categorize Data
 
-...
+1. Open QGIS and import Tile Index. <br>
+2. Layer -> vector layer <br>
+     Accept defaults <br>
+     Look for .shp (source file) <br>
+     Click add <br>
+3. Layer -> xyz layer <br>
+      OR Browser -> xyz tiles <br>
+      This adds a street map for reference. <br>
+4. Right click tile index -> styles (symbology) <br>
+      Double click <br>
+      Change labels to show name of tile or url. <br>
+5. Write down tile names needed for the project. <br>
+6. Go back to the Bulk Download page and find the urls you need to download through the names of the tile found previously using ctrl + f. <br>
+7. Download Data. <br>
 
 ## Creating the 3D Model
 
