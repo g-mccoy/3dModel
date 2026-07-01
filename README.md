@@ -114,6 +114,6 @@ https://skfb.ly/oL7MC
 [Coming Soon... Gathering Images]
 
 ## Acknowledgements
-See [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md) for citations, data sources, and acknowledgements.
+See [Acknowledgemenets.md](Acknowledgements.md) for citations, data sources, and acknowledgements.
 
 
