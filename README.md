@@ -1,7 +1,5 @@
 # Creating a 3D Model
 
-Description
-
 ## Table of Contents
 
 - [What is Possible with this Project?](#what-is-possible-with-this-project?)
