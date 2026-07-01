@@ -56,7 +56,8 @@ View .ipynb file.
 Since we are developing complex terrain data there will likely be small gaps. The easiest fix it to use Microsofts 3D Builder that comes free on Windows and follow these steps: <br><br>
 1. Import combined_model.stl file <br>
 2. It will immediately spot an issue and prompt to fix it. Accept this. <br>
-3. File -> Save As -> STL <br><br>
+3. File -> Save As -> STL <br>
+
 This should provide you with a 3D model that is ready for printing or uploading to SketchFab.
 
 ## Exporting to Sketchfab
