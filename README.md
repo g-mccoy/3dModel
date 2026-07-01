@@ -83,7 +83,11 @@ This should provide you with a 3D model that is ready for printing or uploading 
 ## Exporting to Sketchfab
 
 ### Colorless Model
-...
+1. Create a Sketchfab account: https://sketchfab.com <br>
+2. Open file where your data lies (.ipynb file, stl files, etc.) <br>
+3. Take combined_model.stl and upload to your account. <br>
+<br> Here is an example of a colorless model upload:
+https://skfb.ly/pLB86
 
 ### Model with imagery
 1. Select what you want to export in Blender. <br>
@@ -99,6 +103,8 @@ This should provide you with a 3D model that is ready for printing or uploading 
 11. If your 3D model uploads and you can't see the colors: <br>
          Click on Edit 3D Settings. <br>
          Go to the Mateial Tab and ensure your material is selected (this is at the very top - 1st drop down menu). <br>
+<br> Here is an example of a colored model upload:
+https://skfb.ly/oL7MC
 
 ## Coloring the 3D Model with Blender
 
