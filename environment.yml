@@ -1,0 +1,17 @@
+name: myenv3D
+channels:
+  - conda-forge
+dependencies:
+  -python=3.11
+  -python-pdal
+  -jupyter
+  -pandas
+  -matplotlib
+  -laspy
+  -numpy-stl
+  -gdal
+  -python-wget
+  -ipykernel
+  -pip
+  -pip:
+    -raster2xyz
