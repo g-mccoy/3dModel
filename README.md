@@ -21,7 +21,11 @@ Examples of Digital Models
 ...
 
 
-In the past, I also experimented with 3D projection mapping that allowed me to project animated videos over a large demonstration-sized model created with cardboard and contour lines from QGIS. The chosen demonstration was the 1960 Chilean Tsunami in Hilo, Hawaii. My recommended software, if you are interested in replicating this, is MadMapper. Unfortunately, I no longer have access to the projector or model, so I cannot create an in-depth tutorial, but please feel free to contact me if you have any questions. In the simplest explanation possible, we use Blender similar to how we color the model, except we take an image (or video) from above. This image/video must be 2D, NOT 3D. We then use MadMapper, which is a projection mapping software, to distort the image created in Blender to fit over the physical 3D Model. The ideal conditions for viewing the model setup are with an overhead projector, with the model painted white or with projector paint in a dark room.
+In the past, I also experimented with 3D projection mapping, which allowed me to project animated videos onto a large, demonstration-sized model. The chosen demonstration video was the 1960 Chilean Tsunami in Hilo, Hawaii. 
+
+My recommended software for replicating this is MadMapper. MapMap is a free alternative software, but the UI is much harder to work with than MadMapper. Unfortunately, I no longer have access to the projector or model, so I cannot create an in-depth tutorial, but please feel free to contact me if you have any questions. 
+
+In the simplest explanation possible, we use Blender to color the model and export an image (or video) taken from above. This image/video must be 2D, NOT 3D. We then use MadMapper to distort the image created in Blender over the physical 3D Model. The ideal conditions for viewing the model setup are with an overhead projector, with the model painted white or with projector paint in a dark room.
 
 [insert image]
 [insert video]
