@@ -56,6 +56,6 @@ View .ipynb file.
 
 ## Coloring the 3D Model with Blender
 
-...
+[Coming Soon... Gathering Images]
 
 
