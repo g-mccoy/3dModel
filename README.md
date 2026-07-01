@@ -23,11 +23,16 @@ Example of a Digital Model: <br>
 <br>
 In the past, I also experimented with 3D projection mapping, which allowed me to project animated videos onto a large, demonstration-sized model. The chosen demonstration video was the 1960 Chilean Tsunami in Hilo, Hawaii. <br><br>
 
+<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/b4cce9ab-ec3c-4381-b96e-caf74ba66ecd" />
+
 My recommended software for replicating this is MadMapper. MapMap is a free alternative software, but the UI is much harder to work with than MadMapper. Unfortunately, I no longer have access to the projector or model, so I cannot create an in-depth tutorial, but please feel free to contact me if you have any questions. <br><br>
 
-In the simplest explanation possible, we use Blender to color the model and export an image (or video) taken from above. This image/video must be 2D, NOT 3D. We then use MadMapper to distort the image created in Blender over the physical 3D Model. The ideal conditions for viewing the model setup are with an overhead projector, with the model painted white or with projector paint in a dark room. <br><br>
+In the simplest explanation possible, we use Blender to color the model and export an image (or video) taken from above. This image/video must be 2D, NOT 3D. We then use MadMapper to distort the image created in Blender over the physical 3D Model. The ideal conditions for viewing the model setup are with an overhead projector, with the model painted white or with projector paint in a dark room. Some examples of distortion in MapMapper (demo version) is shown below for reference. <br><br>
 
-<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/b4cce9ab-ec3c-4381-b96e-caf74ba66ecd" />
+<img width="346" height="310" alt="Image" src="https://github.com/user-attachments/assets/7b94b823-f0b5-4e64-b03c-940e467507b1" />  <img width="230" height="309" alt="Image" src="https://github.com/user-attachments/assets/0d6fa6cb-ff85-4274-8b1e-18094f8be315" />
+
+
+
 
 
 
