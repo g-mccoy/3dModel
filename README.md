@@ -45,7 +45,7 @@ In the simplest explanation possible, we use Blender to color the model and expo
 3. Click on the Draw button in the search bar and outline a box around your chosen area. This will make it so only datasets that you may need are shown. <br>
 <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/5c73a328-ef91-4e35-9562-9ce966dd4fec" /> <br>
 4. Select the dataset you wish to download. At the bottom there will be a link under the "Bulk Download" section, click it. This should redirect you to a new page. <br>
-5. On this new page there should be a section near the top titled Meta Data with a zip folder called Tile Index. Download this file to bring into QGIS. <br>
+5. On this new page there should be a section near the top titled Meta Info with a zip folder called Tile Index. Download this file to bring into QGIS. <br>
 <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/699a5309-0d61-4f6e-9a4e-389fd42c9ce9" />
 
 
