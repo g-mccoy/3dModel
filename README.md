@@ -41,7 +41,14 @@ In the simplest explanation possible, we use Blender to color the model and expo
 
 ## Downloading Data
 
-...
+1. Go to NOAA Digital Coast Data Access Viewer and select Elevation: https://coast.noaa.gov/dataviewer/#/ <br>
+2. Use the Search bar or zoom feature to find a general area of interest. <br>
+<img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/d0742758-3ebf-4952-94e2-c4cbc5b2a3cf" />
+<br> If your area is not included in Digital Coast, other sites like OpenTopography are another option. <br>
+3. Click on the Draw button in the search bar and outline a box around your chosen area. This will make it so only datasets that you may need are shown. <br>
+<img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/5c73a328-ef91-4e35-9562-9ce966dd4fec" />
+
+
 
 ## Using QGIS to Categorize Data
 
