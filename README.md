@@ -82,7 +82,23 @@ This should provide you with a 3D model that is ready for printing or uploading 
 
 ## Exporting to Sketchfab
 
+### Colorless Model
 ...
+
+### Model with imagery
+1. Select what you want to export in Blender. <br>
+2. File -> export -> FBX <br>
+3. On Side Bar be sure to click: Include -> Selected Objects <br>
+4. Click export FBX. <br>
+5. Create a Zipped File. <br>
+          Add a folder titled mats to the zipped file and put any materials/images textures you used in this file. <br>
+          Also add the FBX file to the zipped file. <br>
+8. Open Sketchfab. <br>
+9. Upload -> Upload Zipped file <br>
+10. While it is uploading you can edit the title, description and tags. <br>
+11. If your 3D model uploads and you can't see the colors: <br>
+         Click on Edit 3D Settings. <br>
+         Go to the Mateial Tab and ensure your material is selected (this is at the very top - 1st drop down menu). <br>
 
 ## Coloring the 3D Model with Blender
 
