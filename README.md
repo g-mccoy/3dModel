@@ -4,7 +4,7 @@ Description
 
 ## Table of Contents
 
-- [Downloading Data](#downloading)
+- [Downloading Data](#downloadingdata)
 - [Using QGIS to Categorize Data](#QGIS)
 - [Installing Dependencies for Jupyter Notebook](#dependencies)
 - [Creating the 3D Model](#3dmodel)
