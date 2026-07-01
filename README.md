@@ -12,12 +12,12 @@
 
 ## What is Possible with this Project?
 
-This GitHub will walk you through creating a 3D model of your geographic region of interest. From there, you can either export the file to a 3D printer or upload the file to Sketchfab to view it digitally. You can keep the model colorless, or you can add maps and other types of imagery to your 3D model using Blender. This allows you to upload colored versions of your 3D model to view online.
+This GitHub will walk you through creating a 3D model of your geographic region of interest. From there, you can either export the file to a 3D printer or upload the file to Sketchfab to view it digitally. You can keep the model colorless, or you can add maps and other types of imagery to your 3D model using Blender. This allows you to upload colored versions of your 3D model to view online. <br>
 
-Examples of 3D Printed Models
+Examples of 3D Printed Models <br>
 ...
 
-Examples of Digital Models
+Examples of Digital Models <br>
 ...
 
 
