@@ -14,20 +14,20 @@
 
 This GitHub will walk you through creating a 3D model of your geographic region of interest. From there, you can either export the file to a 3D printer or upload the file to Sketchfab to view it digitally. You can keep the model colorless, or you can add maps and other types of imagery to your 3D model using Blender. This allows you to upload colored versions of your 3D model to view online. <br>
 
-Examples of a 3D Printed Model <br>
+Example of a 3D Printed Model: <br>
 <img width="295" height="215" alt="Image" src="https://github.com/user-attachments/assets/817cdfd3-f5af-4923-b746-882821c0dcb0" />
 
-Examples of a Digital Model <br>
+Example of a Digital Model: <br>
 <img width="295" height="215" alt="Image" src="https://github.com/user-attachments/assets/f9ec0d91-8692-4cc9-8d58-efbc46bd1b13" />
 
-
+<br>
 In the past, I also experimented with 3D projection mapping, which allowed me to project animated videos onto a large, demonstration-sized model. The chosen demonstration video was the 1960 Chilean Tsunami in Hilo, Hawaii. <br><br>
 
 My recommended software for replicating this is MadMapper. MapMap is a free alternative software, but the UI is much harder to work with than MadMapper. Unfortunately, I no longer have access to the projector or model, so I cannot create an in-depth tutorial, but please feel free to contact me if you have any questions. <br><br>
 
 In the simplest explanation possible, we use Blender to color the model and export an image (or video) taken from above. This image/video must be 2D, NOT 3D. We then use MadMapper to distort the image created in Blender over the physical 3D Model. The ideal conditions for viewing the model setup are with an overhead projector, with the model painted white or with projector paint in a dark room. <br><br>
 
-<img width="295" height="215" alt="Image" src="https://github.com/user-attachments/assets/b4cce9ab-ec3c-4381-b96e-caf74ba66ecd" />
+<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/b4cce9ab-ec3c-4381-b96e-caf74ba66ecd" />
 
 
 
