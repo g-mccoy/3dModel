@@ -1,4 +1,4 @@
-# 3dModel
+# Creating a 3D Model
 
 Description
 
