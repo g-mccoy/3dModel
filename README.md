@@ -66,7 +66,9 @@ In the simplest explanation possible, we use Blender to color the model and expo
       Change labels to show name of tile or url. <br>
 5. Write down tile names needed for the project. <br>
 6. Go back to the Bulk Download page and find the urls you need to download through the names of the tile found previously using ctrl + f. <br>
-7. Download Data. <br>
+7. Download Data. <br><br>
+
+Note: QGIS is helpful for determining lat and long extents of the model and the EPSG value which will need to be manipulated in the .ipynb code if you wish to change the region of interest. For the purpose of the walkthrough, the code pulls the data directly from the website so it does not need to be downloaded but it is good practice to download it and view it in QGIS to determine which of the available datasets is best to use.
 
 ## Creating the 3D Model
 
