@@ -72,7 +72,7 @@ Note: QGIS is helpful for determining lat and long extents of the model and the 
 
 ## Creating the 3D Model
 
-View .ipynb file.
+View [HPP23_HiloBay_v10_final.ipynb](HPP23_HiloBay_v10_final.ipynb) file and download [environment.yml](environment.yml).
 
 ## Troubleshooting the 3D Model
 
