@@ -18,7 +18,7 @@ Examples of a 3D Printed Model <br>
 <img width="295" height="215" alt="Image" src="https://github.com/user-attachments/assets/817cdfd3-f5af-4923-b746-882821c0dcb0" />
 
 Examples of a Digital Model <br>
-<img width="209" height="163" alt="Image" src="https://github.com/user-attachments/assets/f9ec0d91-8692-4cc9-8d58-efbc46bd1b13" />
+<img width="295" height="215" alt="Image" src="https://github.com/user-attachments/assets/f9ec0d91-8692-4cc9-8d58-efbc46bd1b13" />
 
 
 In the past, I also experimented with 3D projection mapping, which allowed me to project animated videos onto a large, demonstration-sized model. The chosen demonstration video was the 1960 Chilean Tsunami in Hilo, Hawaii. <br><br>
@@ -27,7 +27,7 @@ My recommended software for replicating this is MadMapper. MapMap is a free alte
 
 In the simplest explanation possible, we use Blender to color the model and export an image (or video) taken from above. This image/video must be 2D, NOT 3D. We then use MadMapper to distort the image created in Blender over the physical 3D Model. The ideal conditions for viewing the model setup are with an overhead projector, with the model painted white or with projector paint in a dark room. <br><br>
 
-<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/b4cce9ab-ec3c-4381-b96e-caf74ba66ecd" />
+<img width="295" height="215" alt="Image" src="https://github.com/user-attachments/assets/b4cce9ab-ec3c-4381-b96e-caf74ba66ecd" />
 
 
 
