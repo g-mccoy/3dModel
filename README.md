@@ -53,7 +53,7 @@ View .ipynb file.
 
 ## Troubleshooting the 3D Model
 
-Since we are developing complex terrain data there will likely be small gaps. The easiest fix it to use Microsofts 3D Builder that comes free on Windows and follow these steps: <br><br>
+Since we are developing complex terrain data there will likely be small gaps. The easiest fix it to use Microsofts 3D Builder that comes free on Windows and follow these steps: <br>
 1. Import combined_model.stl file <br>
 2. It will immediately spot an issue and prompt to fix it. Accept this. <br>
 3. File -> Save As -> STL <br>
