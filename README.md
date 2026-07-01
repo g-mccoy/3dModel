@@ -4,12 +4,12 @@ Description
 
 ## Table of Contents
 
-- [Downloading Data](#downloadingdata)
-- [Using QGIS to Categorize Data](#QGIS)
-- [Installing Dependencies for Jupyter Notebook](#dependencies)
-- [Creating the 3D Model](#3dmodel)
-- [Exporting to Sketchfab](#sketchfab)
-- [Optional: Coloring the 3D Model with Blender](#color)
+- [Downloading Data](#downloading-data)
+- [Using QGIS to Categorize Data](#using-qgis-to-categorize-data)
+- [Installing Dependencies for Jupyter Notebook](#installing-dependencies-for-jupyter-notebook)
+- [Creating the 3D Model](#creating-the-3d-model)
+- [Exporting to Sketchfab](#exporting-to-sketchfab)
+- [Optional: Coloring the 3D Model with Blender](#optional:-coloring-the-3d-model-with-blender)
 
 ## Downloading Data
 
