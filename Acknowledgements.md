@@ -9,6 +9,7 @@ Program** internship. Special thanks to:
   developed the foundational approach for converting NOAA topobathy rasters 
   to 3D-printable STL models and provided guidance throughout development.
 - **Leon Geschwind** (NOAA) — mentor and advisor throughout the internship.
+- **Michael Pai** (NOAA) - animation, Blender, and 3D projection mapping advice.
 
 The codebase has since been significantly revised and extended from the 
 original internship work, with Tim Schierenbeck's knowledge and permission.
