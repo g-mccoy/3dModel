@@ -12,7 +12,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Workshop Walkthrough Video
-[![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=HFsX8EYlYzQ&list=WL&index=1&t=1s)
+[![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=HFsX8EYlYzQ)
 
 <br>
 
