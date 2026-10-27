@@ -12,8 +12,11 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Workshop Walkthrough Video
-[![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=HFsX8EYlYzQ)
-
+<div align="center">
+  <a href="[https://www.youtube.com/watch?v=HFsX8EYlYzQ]">
+    <img src="[https://www.youtube.com/watch?v=HFsX8EYlYzQ]" alt="Creating a 3D model using public DEM and/or LiDAR data video" width="600" style="max-width: 100%;">
+  </a>
+</div>
 <br>
 
 ## What is Possible with this Project?
