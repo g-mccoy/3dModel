@@ -13,6 +13,7 @@
 
 ## Workshop Walkthrough Video
 [![Watch the video](https://img.youtube.com/vi/HFsX8EYlYzQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=HFsX8EYlYzQ)
+Please click the image!
 <br>
 
 ## What is Possible with this Project?
