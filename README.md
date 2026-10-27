@@ -13,8 +13,8 @@
 
 ## Workshop Walkthrough Video
 <div align="center">
-  <a href="[https://www.youtube.com/watch?v=HFsX8EYlYzQ]">
-    <img src="[https://www.youtube.com/watch?v=HFsX8EYlYzQ]" alt="Creating a 3D model using public DEM and/or LiDAR data video" width="600" style="max-width: 100%;">
+  <a href="https://youtube.com">
+    <img src="https://youtube.com" alt="Creating a 3D model using public DEM and/or LiDAR data video" width="600" style="max-width: 100%;">
   </a>
 </div>
 <br>
