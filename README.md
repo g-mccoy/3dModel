@@ -12,7 +12,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Workshop Walkthrough Video
-[Watch the video on YouTube](https://youtu.be/HFsX8EYlYzQ)
+[Watch the video on YouTube(https://img.youtube.com/vi/HFsX8EYlYzQ/maxresdefault.jpg)](https://youtu.be/HFsX8EYlYzQ)
 <br>
 
 ## What is Possible with this Project?
