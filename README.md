@@ -11,6 +11,11 @@
 - [Optional: Coloring the 3D Model with Blender](#coloring-the-3d-model-with-blender)
 - [Acknowledgements](#acknowledgements)
 
+## Workshop Walkthrough Video
+[![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=HFsX8EYlYzQ&list=WL&index=1&t=1s)
+
+<br>
+
 ## What is Possible with this Project?
 
 This GitHub will walk you through creating a 3D model of your geographic region of interest. From there, you can either export the file to a 3D printer or upload the file to Sketchfab to view it digitally. You can keep the model colorless, or you can add maps and other types of imagery to your 3D model using Blender. This allows you to upload colored versions of your 3D model to view online. <br>
@@ -113,7 +118,7 @@ https://skfb.ly/oL7MC
 
 ## Coloring the 3D Model with Blender
 
-[Coming Soon... Gathering Images]
+Please watch the workshop video from 0:48:00 - 1:13:00.
 
 ## Acknowledgements
 See [Acknowledgements.md](Acknowledgements.md) for citations, data sources, and acknowledgements.
