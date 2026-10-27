@@ -11,9 +11,10 @@
 - [Optional: Coloring the 3D Model with Blender](#coloring-the-3d-model-with-blender)
 - [Acknowledgements](#acknowledgements)
 
-## Workshop Walkthrough Video
+## 10/9/26 Workshop Walkthrough YouTube Video
 [![Watch the video](https://img.youtube.com/vi/HFsX8EYlYzQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=HFsX8EYlYzQ)
 Please click the image!
+<br>
 <br>
 
 ## What is Possible with this Project?
